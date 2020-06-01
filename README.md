@@ -1,6 +1,6 @@
 # OpenML Scikit-Learn Workflows
 
-The data provided in the .csv file is directly derived from https://www.openml.org/.
+The data for 475,297 machine learning runs provided in the .csv file were directly derived from https://www.openml.org/.
 
 In relation to our HILDA paper, a **run** corresponds to a single row in the .csv file, and a **sequence** is a groupby on user\_id and task\_id. 
 
